@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xa3b7a4f7955f9780f8c4a481d597081f5e77d153",
+  "SCAN_LINK": "https://goerli.etherscan.io/address/0xa3b7a4f7955f9780f8c4a481d597081f5e77d153",
+  "NETWORK": {
+    "NAME": "BNB",
+    "SYMBOL": "BNB",
+    "ID": 97
+  },
+  "NFT_NAME": "Floppy Fishies (test)",
+  "SYMBOL": "FLOP",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 70000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 2500000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/assets/goerli/0xa3b7a4f7955f9780f8c4a481d597081f5e77d153",
+  "SHOW_BACKGROUND": true
+}
