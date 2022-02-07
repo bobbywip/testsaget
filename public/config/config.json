@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x167123427EDA0C715c6C25256bfC3F6ECcBe311E",
+  "SCAN_LINK": "https://goerli.etherscan.io/address/0x167123427EDA0C715c6C25256bfC3F6ECcBe311E",
+  "NETWORK": {
+    "NAME": "ETH",
+    "SYMBOL": "ETH",
+    "ID": 5
+  },
+  "NFT_NAME": "PILK",
+  "SYMBOL": "PILK",
+  "MAX_SUPPLY": 1000000,
+  "WEI_COST": 70000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 7000000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/assets/goerli/0x167123427EDA0C715c6C25256bfC3F6ECcBe311E",
+  "SHOW_BACKGROUND": true
+}
